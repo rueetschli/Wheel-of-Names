@@ -22,7 +22,7 @@ Die Anwendung speichert den Zustand deines Rades in einer JSON-Datei und verwend
 ## Verzeichnisstruktur
 ```
 / (Projektstamm) ├── index.php ├── wheels.json ├── css │ └── style.css └── js └── main.js
-
+```
 
 ## Installation
 1. **Dateien hochladen:** Lade alle Dateien per FTP auf dein Webhosting hoch.
