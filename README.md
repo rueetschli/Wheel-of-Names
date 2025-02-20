@@ -1,4 +1,4 @@
-# Wheel of Names - Modern Edition
+# Wheel of Names
 
 ## Projektbeschreibung
 Wheel of Names - Modern Edition ist eine moderne, responsive Webanwendung, mit der du dein eigenes Glücksrad erstellen kannst. Du fügst im großen Eingabefeld Namen, Preise oder andere Einträge ein – getrennt durch Enter, Komma oder Semikolon – und das Rad generiert daraus per Zufall eine Auswahl. Je nach gewähltem Modus unterscheidet sich nicht nur das Verhalten, sondern auch das Aussehen des Rades:
