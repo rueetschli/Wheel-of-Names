@@ -20,7 +20,7 @@ Die Anwendung speichert den Zustand deines Rades in einer JSON-Datei und verwend
 - **Share-Funktion**: Teile dein Rad über die eindeutige URL.
 
 ## Verzeichnisstruktur
-'''
+```
 / (Projektstamm) ├── index.php ├── wheels.json ├── css │ └── style.css └── js └── main.js
 
 
