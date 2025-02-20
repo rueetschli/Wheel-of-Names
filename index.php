@@ -176,7 +176,7 @@ if(!isset($_GET['uuid'])){
   </div>
   
   <footer>
-    <p>Download auf <a href="https://github.com/dein-github-repo" target="_blank">GitHub</a></p>
+    <p>Download auf <a href="https://github.com/rueetschli/Wheel-of-Names" target="_blank">GitHub</a></p>
   </footer>
   
   <!-- Übergabe initialer Daten an JavaScript -->
