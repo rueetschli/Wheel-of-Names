@@ -62,9 +62,10 @@ $(document).ready(function(){
     $("#removeButton").on("click", function(){
         if(results.length > 0){
             var last = results[results.length - 1];
-            wheelData = wheelData.filter(function(item){
-                return item !== last;
-            });
+            var index = wheelData.indexOf(last);
+            if(index !== -1){
+                wheelData.splice(index, 1);
+            }
             results.pop();
             updateResults();
             saveWheel();
